@@ -1,0 +1,19 @@
+{
+  "blocked_hits": 3,
+  "constraints_passed": true,
+  "deadline_bonus": 48,
+  "delivered": 24,
+  "invalid_route_penalty": 96,
+  "late_orders": 8,
+  "max_steps": 95,
+  "route_length": 28,
+  "runtime_ms": 0.217,
+  "score": 132,
+  "split": "eval",
+  "strategy_sha256": "0561f775baa17b7db9ef52597601fdb952cbf9c761d342debfd4a21d64d3d544",
+  "timestamp": "2026-04-28T21:55:59.225462+00:00",
+  "total_orders": 28,
+  "total_tip": 349,
+  "travel_steps": 121,
+  "violations": []
+}
