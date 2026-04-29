@@ -9,4 +9,5 @@ logs/*.jsonl
 .jupyter/
 results/
 snackbot_codex_workspace/
+snackbot_autoresearch_workspace/
 text_ /
