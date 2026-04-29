@@ -4,3 +4,9 @@ __pycache__/
 logs/*.jsonl
 
 .strategy.best.py
+
+.ipynb_checkpoints/
+.jupyter/
+results/
+snackbot_codex_workspace/
+text_ /
